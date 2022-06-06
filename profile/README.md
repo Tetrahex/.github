@@ -1,4 +1,4 @@
-# TetrahexOfficial 
+![image](https://user-images.githubusercontent.com/106161873/172183640-e1d59a2d-169c-4808-a728-8ee92159f0d6.png)
 
 We provide ingenious, creative and innovative solutions for your business and believe in exceeding expectations. We are experts in Web Development, Native Mobile Apps, Hybrid, Progressive Web Apps, BlockChain technology and Smart Contracts. We have our thinking caps on and assure you that we’ll provide intelligent solutions to your business problems using the latest cutting edge technology.
 
