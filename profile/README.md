@@ -1,26 +1,21 @@
-![TetraHex private limited](https://user-images.githubusercontent.com/106161873/172183640-e1d59a2d-169c-4808-a728-8ee92159f0d6.png "Tetrahex Private Limited")
+![TetraHex private limited](https://user-images.githubusercontent.com/106161873/172183640-e1d59a2d-169c-4808-a728-8ee92159f0d6.png 'Tetrahex Private Limited')
 
 We provide ingenious, creative and innovative solutions for your business and believe in exceeding expectations. We are experts in Web Development, Native Mobile Apps, Hybrid, Progressive Web Apps, BlockChain technology and Smart Contracts. We have our thinking caps on and assure you that we’ll provide intelligent solutions to your business problems using the latest cutting edge technology.
 
 ## Services We Offer
 
-### Quick Services
-Build a POC or an MVP in a number of days to validate your idea.
-
-### Custom Development
-We provide custom software solutions according to your needs.
-
-### Discovery Workshop
-We'll develop a shared understanding and devise strategies to tackle your challenges.
-
-### Web Development
-Build a front-facing or custom website to cater your business needs.
-
-### App Development
-Transfer your idea in to an iOS, Android or a Hybrid mobile application.
-
-### Internal Tools
-Build tools that support your internal operations to increase the productivity of your teams.
+- Quick Services
+  - Build a POC or an MVP in a number of days to validate your idea.
+- Custom Development
+  - We provide custom software solutions according to your needs.
+- Discovery Workshop
+  - We'll develop a shared understanding and devise strategies to tackle your challenges.
+- Web Development
+  - Build a front-facing or custom website to cater your business needs.
+- App Development
+  - Transfer your idea in to an iOS, Android or a Hybrid mobile application.
+- Internal Tools
+  - Build tools that support your internal operations to increase the productivity of your teams.
 
 ## Languages and Tools:
 
