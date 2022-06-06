@@ -4,18 +4,12 @@ We provide ingenious, creative and innovative solutions for your business and be
 
 ## Services We Offer
 
-- Quick Services
-  - Build a POC or an MVP in a number of days to validate your idea.
-- Custom Development
-  - We provide custom software solutions according to your needs.
-- Discovery Workshop
-  - We'll develop a shared understanding and devise strategies to tackle your challenges.
-- Web Development
-  - Build a front-facing or custom website to cater your business needs.
-- App Development
-  - Transfer your idea in to an iOS, Android or a Hybrid mobile application.
-- Internal Tools
-  - Build tools that support your internal operations to increase the productivity of your teams.
+- **Quick Services** Build a POC or an MVP in a number of days to validate your idea.
+- **Custom Development** We provide custom software solutions according to your needs.
+- **Discovery Workshop** We'll develop a shared understanding and devise strategies to tackle your challenges.
+- **Web Development** Build a front-facing or custom website to cater your business needs.
+- **App Development** Transfer your idea in to an iOS, Android or a Hybrid mobile application.
+- **Internal Tools** Build tools that support your internal operations to increase the productivity of your teams.
 
 ## Languages and Tools:
 
